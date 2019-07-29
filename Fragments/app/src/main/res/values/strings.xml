@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NurulAfiqah_Tut3Fragments</string>
+
+    <string name="btn1">STATIC FRAGMENT</string>
+    <string name="btn2">DYNAMIC FRAGMENT</string>
+    <string name="btn3">FRAGMENT WITH INTERFACE</string>
+    <string name="btnInFragment3">TOAST A MESSAGE (I AM DEFINED IN A FRAGMENT)</string>
+    <string name="back">BACK (I AM DEFINED IN AN ACTIVITY)</string>
+
+    <string name="fragment1">Hello I am Fragment 1</string>
+    <string name="fragment2">Hello I am Fragment 2</string>
+    <string name="fragment3">Fragment With Interface</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
