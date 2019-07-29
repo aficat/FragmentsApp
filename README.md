@@ -32,7 +32,7 @@ The “Back (I AM DEFINED IN AN ACTIVITY)” button is defined in ActivityStatic
 ### Dynamic Fragment
 The “Dynamic Fragment” button in MainActivity will bring the user to ActivityDynamic. The portrait and landscape modes of ActivityDynamic are as shown.
 
-![Dynamic Layout](dynamic_layout.jpg)
+![Dynamic Layout](static/dynamic_layout.jpg)
 
 Fragment-1 and Fragment-2 are now dynamically attached to ActivityDynamic. Fragment-1 and Fragment-2 each contains a photograph. The photograph is stretched to fill the available space.
 
@@ -41,7 +41,7 @@ ActivityDynamic: Two fragments and a button arranged in horizontal order. Fragme
 ### Fragment with Interface
 The “Fragment With Interface” button in MainActivity will bring the user to ActivityInterface. ActivityInterface is as shown. 
 
-![Fragment with Interface Layout](fragment_interface.jpg)
+![Fragment with Interface Layout](static/fragment_interface.jpg)
 
 The fragment is statically attached to ActivityInterface. The fragment contains two view items: TextView and a button labelled as “(TOAST A MESSAGE: I AM DEFINED IN A FRAGMENT)”. When the button “(TOAST A MESSAGE: I AM DEFINED IN A FRAGMENT)” is pressed, a message “This Toast message is from Fragment 4!” will be toasted.
 
